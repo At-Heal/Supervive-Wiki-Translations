@@ -1,0 +1,156 @@
+<div id="mp-layout2-container"><!-- BEGIN grid container -->
+
+<div class="mp-box" id="mp-box-welcome"><!-- BEGIN welcome box -->
+
+<div id="mp-welcome"><!-- BEGIN #mp-welcome -->
+
+<h2 class="welcome-message">
+Welcome to the {{SITENAME}}!
+</h2>
+
+<div class="welcome-subtitle">
+<div style="margin:auto; margin-bottom:0; width:fit-content;">[[File:Supervivelogo.png|800px|center|noframe|link=https://www.playsupervive.com/en-us/welcome]]</div>
+<div id="mp-left-1">
+<div style="width:100%; margin:auto; padding-bottom:20px;">
+<div style="text-align:center; padding: 10px;">
+<br>This is the official, community-run wiki for SUPERVIVE.
+<br>We currently have <span style="font-weight:bolder">[[Special:Statistics|{{NUMBEROFARTICLES}}]]</span> articles and <span style="font-weight:bolder">[[Special:Statistics|{{NUMBEROFACTIVEUSERS}}]]</span> helpful editors contributing!
+<br>Please feel free to contribute by creating new articles or expanding existing ones.
+</div>
+</div>
+</div>
+</div>
+
+<div id="mp-banner"></div>
+
+</div><!-- END #mp-welcome -->
+
+</div><!-- END welcome box -->
+
+<div class="mp-box centered-content" id="mp-box-links"><!-- BEGIN links box -->
+== Useful Links ==
+<div class="mp-body">
+* [https://www.playsupervive.com/en-us/welcome Supervive Website]
+* [https://www.youtube.com/@theorycraftgames TC on Youtube]
+* [https://www.tiktok.com/@playsupervive TC on TikTok]
+* [https://supervive.io Leaderboards and Player Lookup]
+</div>
+
+</div><!-- END links box -->
+
+
+<div class="mp-box centered-content" id="mp-box-gallery"><!-- BEGIN gallery box -->
+== The Game ==
+<div class="mp-body">
+<gallery widths="200px" mode="nolines">
+Hunters.png|link=Hunters|<big>'''[[Hunters]]'''</big>
+TX_Dagger_1.png|link=Equipment|<big>'''[[Equipment]]'''</big>
+Vive_Soul.png|link=Consumables|<big>'''[[Consumables]]'''</big>
+thats_a_good_nuke.png|link=Powers|<big>'''[[Powers]]'''</big>
+Buba.png|link=Mobs|<big>'''[[Creeps]]'''</big>
+Map_Concept.jpg|link=Map|<big>'''[[Map]]'''</big>
+Endgame.png|link=Time_of_Day|<big>'''[[Time of Day]]'''</big>
+TX_StormshiftBacker.png|link=Storm_Shifts|<big>'''[[Storm_Shifts|Storm Shifts]]'''</big>
+cat_wisp.png|link=Loadout|<big>'''[[Loadout]]'''</big>
+</gallery>
+----
+<div class="flextextlinks">
+* '''[[Getting_Started|Getting Started]]'''
+* '''[[Game Modes]]'''
+* '''[[Glossary]]'''
+* '''[[Art Gallery]]'''
+</div>
+</div>
+
+</div><!-- END gallery box -->
+
+<div class="mp-box" id="mp-box-iconlists"><!-- BEGIN iconlists box-->
+== LINK ALL PAGES HERE ==
+<div class="mp-body mp-iconlists"><!-- BEGIN mp-body -->
+
+<div class="mp-iconlist">
+=== [[Items]] ===
+* {{Item icon|Consumables}}
+* {{Item icon|Powers}}
+* {{Item icon|Armor}}
+* {{Item icon|Weapon}}
+* {{Item icon|Exotics}}
+* {{Item icon|Shops}}
+* {{Item icon|Backpacks}}
+* {{Item icon|Upgrade Shards}}
+</div>
+
+<div class="mp-iconlist">
+=== [[Creeps]] ===
+* {{Item icon|Soul Bosses}}
+* {{Item icon|Biome Leaders}}
+* {{Item icon|Armor Chest Bosses}}
+* {{Item icon|Summonable Creeps}}
+* {{Item icon|Ghosts}}
+* {{Item icon|Normal Camps}}
+</div>
+
+<div class="mp-iconlist">
+=== [[Map]] ===
+* {{Item icon|Biomes}}
+* {{Item icon|Points of Interest}}
+* {{Item icon|Regions}}
+* {{Item icon|Hot Zone}}
+* {{Item icon|Abyss}}
+* {{Item icon|Train}}
+* {{Item icon|Vault}}
+* {{Item icon|Drop Path}}
+* {{Item icon|Circle Movement}}
+* {{Item icon|Storm Shifts}}
+* {{Item icon|Basecamps}}
+* {{Item icon|Major Island}}
+
+</div>
+
+<div class="mp-iconlist">
+=== [[Time of Day]] ===
+* {{Item icon|Level Caps}}
+* {{Item icon|Day Night Vision}}
+* {{Item icon|Most Wanted}}
+* {{Item icon|Endgame}}
+* {{Item icon|Supply Drops}}
+</div>
+
+<div class="mp-iconlist">
+=== MISC uncategorized pages ===
+* {{Item icon|Souls}}
+* {{Item icon|Glossary}}
+</div>
+
+</div><!-- END mp-body -->
+
+</div><!--END iconlists box-->
+
+<div class="mp-box" id="mp-box-about"><!-- BEGIN about box -->
+
+== About SUPERVIVE ==
+<div class="mp-body" style="overflow: hidden">
+SUPERVIVE is a free-to-play squad-based hero battle royale developed by Theorycraft Studios. The game features fast-paced, fluid combat with a strong emphasis on strategic movement, allowing players to jump, dash, and glide to create dynamic combos. SUPERVIVE blends elements of action combat and strategic gameplay, with a focus on teamwork, reviving teammates, and outthinking opponents. The game encourages creative playstyles by offering flexible hero kits and powers, making every match unique and engaging.
+</div>
+
+</div><!--END about box-->
+
+<div class="mp-box" id="mp-box-contribute"><!-- BEGIN contribute box -->
+
+== Contribute to the Wiki ==
+<div class="mp-body">
+{{SITENAME}} is a collaborative wiki resource that is open for anyone to edit. You don't need special permission beyond [[Special:UserLogin/signup|registering]] an account to edit most pages, and your contributions can grow the wiki and help other players.
+; '''Adding content'''
+: * If you are unsure of what to do or how to create a page, search for a few articles on the same topic and see what they look like. You can always view the source code in a wiki and learn from what others have done.
+: * An edit doesn't have to be massive; if you feel you don't want to create whole articles, then just fixing spelling errors and broken links is enough.
+: * [[Special:UserLogin/signup|Register]] to edit and track your contributions.
+</div>
+
+</div><!-- END contribute box -->
+
+</div><!-- END grid container -->
+{{#description2:Welcome to the {{SITENAME}}, a collaborative wiki resource that is open for anyone to edit!}}
+__NOTITLE__
+__NOTOC__
+__NOEDITSECTION__
+
