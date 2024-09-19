@@ -1,4 +1,4 @@
 files:
-  - source: /translations/en/*
-    translation: /translations/%two_letters_code%/*
+  - source: /translations/en/**/main.wiki
+    translation: /translations/%two_letters_code%/**/main.wiki
     multilingual: 1
