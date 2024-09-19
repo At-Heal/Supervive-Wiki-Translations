@@ -1,0 +1,4 @@
+files:
+  - source: /translations/en/*
+    translation: /translations/%two_letters_code%/*
+    multilingual: 1
